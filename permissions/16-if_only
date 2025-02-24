@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --FROM=guillaume -R vincent hello
+chown --from=guillaume -R vincent hello
